@@ -223,7 +223,7 @@ Validation + Visual QA
 
 ---
 
-## 🧠 The connection
+## 🧠 One thread through all three
 
 These projects look different on the surface:
 
@@ -254,7 +254,7 @@ More like *“the system knows what it produced, how it produced it, and where t
 
 ---
 
-## 🧰 Things I keep reaching for
+## 🧰 Tools in the loop
 
 <div align="center">
 
