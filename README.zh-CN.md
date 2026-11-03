@@ -1,18 +1,20 @@
 # kwhi
 
-**构建服务于创作与日常使用的 AI Agent 工具，关注实际效果与可靠交付。**
+**对 AI 很好奇，对成品有点挑剔。**
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-我围绕摄影、演示文稿、沟通和跨平台工作流构建并打磨工具。我关注输出背后的判断：哪些内容需要保留，哪里值得改善，以及如何检查结果。
+你好，我是 kwhi。我喜欢把一句「能不能再好一点？」变成可以亲手试试的东西。
 
-我希望有用的想法能在真实使用环境里落地，交付可以实际查看的成果，也明确能力的边界。
+可能是一张照片里的光线，一句怎么回都差点意思的话，也可能是一个总在关键时刻卡住的 Agent 工作流。摄影、视觉设计和实用的小工具，是我这些兴趣碰头的地方。
 
-## 精选作品
+我很享受把一个有潜力的初稿，慢慢打磨到「这个值得留下」的过程。
 
-- **[Photo Abstract Editorial](https://github.com/kwhi6693-web/photo-abstract-editorial)** — 将摄影与抽象表达结合，通过可控抽象和尊重来源的构图生成编辑艺术作品。[前后对照](https://github.com/kwhi6693-web/photo-abstract-editorial#before-after) · [验证说明](https://github.com/kwhi6693-web/photo-abstract-editorial#validation)
-- **[Photo Finish](https://github.com/kwhi6693-web/photo-finish)** — 面向非人像照片的自然后期，结合摄影判断、原片对照与版本化交付。[能力与限制](https://github.com/kwhi6693-web/photo-finish#capabilities-and-limits) · [验证范围](https://github.com/kwhi6693-web/photo-finish/blob/main/docs/validation.md)
-- **[Social Reply](https://github.com/kwhi6693-web/social-reply)** — 帮助使用者用一条自然回复表达自己的意图，可选私人记忆与表达偏好。[功能说明](https://github.com/kwhi6693-web/social-reply#-feature-map) · [验证与兼容性](https://github.com/kwhi6693-web/social-reply#-validation-and-compatibility)
+## 把好奇心做成工具
+
+- **[Photo Abstract Editorial](https://github.com/kwhi6693-web/photo-abstract-editorial)** — 让一张照片多一种表达：将摄影、可控抽象与编辑设计结合，同时尊重原始画面。[前后对照](https://github.com/kwhi6693-web/photo-abstract-editorial#before-after) · [验证说明](https://github.com/kwhi6693-web/photo-abstract-editorial#validation)
+- **[Photo Finish](https://github.com/kwhi6693-web/photo-finish)** — 认真对待一张照片的光色与构图。面向非人像照片的自然后期，保留原片对照与版本记录。[能力与限制](https://github.com/kwhi6693-web/photo-finish#capabilities-and-limits) · [验证范围](https://github.com/kwhi6693-web/photo-finish/blob/main/docs/validation.md)
+- **[Social Reply](https://github.com/kwhi6693-web/social-reply)** — 给「知道想说什么，却不知道怎么回」的时刻。一条自然的回复，可选私人记忆与表达偏好。[功能说明](https://github.com/kwhi6693-web/social-reply#-feature-map) · [验证与兼容性](https://github.com/kwhi6693-web/social-reply#-validation-and-compatibility)
 
 **其他工具：**[agent-xplat](https://github.com/kwhi6693-web/agent-xplat) 检查 Agent 工作流中的跨平台假设（[示例](https://github.com/kwhi6693-web/agent-xplat/tree/master/examples/mixed-workflow) · [CI 记录](https://github.com/kwhi6693-web/agent-xplat/actions)）；[Presentation Studio](https://github.com/kwhi6693-web/presentation-studio) 生成可编辑的演示文稿与相关成果（[真实案例](https://github.com/kwhi6693-web/presentation-studio#showcase)）。
 
@@ -43,14 +45,16 @@
 
 </details>
 
-## 近期关注
+## 我在意的那些小事
 
-- 摄影判断、自然光色与克制的编辑设计。
-- 适应实际宿主、能交付可检查文件的 Agent 工作流。
-- 保留使用者自身语气的轻量沟通工具。
+- 照片有氛围，光色也经得起细看。
+- 工具替人省点力，最后真能留下可用的成果。
+- 一句话发出去，依然像说话的人自己。
 
-**我的工作方式：** 构建 → 检查 → 验证 → 打磨。区分软件检查与实际成品质量，让能力描述与现有证据保持一致。
+**最让我开心的部分：** 调整一个小细节，整个东西忽然就对了。我会反复查看、验证和打磨，也会区分软件检查与实际成品的好坏。
 
-## 交流
+## 来聊点有意思的
 
-欢迎交流 Agent 工作流、创作工具和实际使用中的改进。项目问题或缺陷请在对应仓库提出；一般想法或交流可以[在这里发起 Issue](https://github.com/kwhi6693-web/kwhi6693-web/issues/new)。
+一个摄影点子、一款你希望有人做出来的工具，或生活里一个值得解决的小麻烦，都可以[来打个招呼](https://github.com/kwhi6693-web/kwhi6693-web/issues/new)。想法还没成形，也没关系。
+
+具体项目的使用问题或缺陷，请在对应仓库提出，方便让讨论和作品放在一起。
