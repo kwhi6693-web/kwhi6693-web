@@ -1,18 +1,20 @@
 # kwhi
 
-**Building AI-agent tools for creative work and reliable everyday workflows.**
+**Curious about AI. Particular about the details.**
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-I build and refine tools for photography, presentations, communication, and cross-platform workflows. I care about the decisions around the output: what to preserve, what to improve, and how to check the result.
+Hi, I'm kwhi. I like turning “could this be better?” into something you can actually try.
 
-My aim is to make useful ideas work in the environment people actually use, with clear limits and something tangible to inspect.
+Sometimes that means finding the right light in a photograph. Sometimes it's finding the words for a reply, or making an agent workflow feel a little less fragile. Photography, visual design, and useful little tools are where my interests meet.
 
-## Selected work
+I enjoy the part where a promising first attempt becomes something worth keeping.
 
-- **[Photo Abstract Editorial](https://github.com/kwhi6693-web/photo-abstract-editorial)** — Turn photographs into editorial artworks with controlled abstraction and source-aware composition. [Before / after](https://github.com/kwhi6693-web/photo-abstract-editorial#before-after) · [Validation](https://github.com/kwhi6693-web/photo-abstract-editorial#validation)
-- **[Photo Finish](https://github.com/kwhi6693-web/photo-finish)** — Natural finishing for non-portrait photographs, with photographic judgment, source comparison, and versioned delivery. [Capabilities & limits](https://github.com/kwhi6693-web/photo-finish#capabilities-and-limits) · [Validation scope](https://github.com/kwhi6693-web/photo-finish/blob/main/docs/validation.md)
-- **[Social Reply](https://github.com/kwhi6693-web/social-reply)** — Help people express their own intentions in one natural reply, with optional private memory and expression preferences. [How it works](https://github.com/kwhi6693-web/social-reply#-feature-map) · [Validation & compatibility](https://github.com/kwhi6693-web/social-reply#-validation-and-compatibility)
+## A few things I'm making
+
+- **[Photo Abstract Editorial](https://github.com/kwhi6693-web/photo-abstract-editorial)** — One photograph, another visual language: editorial layouts and controlled abstraction that respect the source. [Before / after](https://github.com/kwhi6693-web/photo-abstract-editorial#before-after) · [Validation](https://github.com/kwhi6693-web/photo-abstract-editorial#validation)
+- **[Photo Finish](https://github.com/kwhi6693-web/photo-finish)** — A little more care for light, color, and composition. Natural finishing for non-portrait photos, with source comparison and versioned delivery. [Capabilities & limits](https://github.com/kwhi6693-web/photo-finish#capabilities-and-limits) · [Validation scope](https://github.com/kwhi6693-web/photo-finish/blob/main/docs/validation.md)
+- **[Social Reply](https://github.com/kwhi6693-web/social-reply)** — For the moment when you know what you mean but can't quite find the words. One natural reply, with optional private memory and expression preferences. [How it works](https://github.com/kwhi6693-web/social-reply#-feature-map) · [Validation & compatibility](https://github.com/kwhi6693-web/social-reply#-validation-and-compatibility)
 
 **More tools:** [agent-xplat](https://github.com/kwhi6693-web/agent-xplat) finds portability assumptions in agent workflows ([example](https://github.com/kwhi6693-web/agent-xplat/tree/master/examples/mixed-workflow) · [CI](https://github.com/kwhi6693-web/agent-xplat/actions)); [Presentation Studio](https://github.com/kwhi6693-web/presentation-studio) produces editable presentation artifacts ([real showcases](https://github.com/kwhi6693-web/presentation-studio#showcase)).
 
@@ -43,14 +45,16 @@ These images are project covers. The links above lead to actual examples and val
 
 </details>
 
-## Current focus
+## The details I care about
 
-- Photographic judgment, natural light and color, and restrained editorial design.
-- Agent workflows that adapt to the host and produce inspectable files.
-- Lightweight communication tools that preserve the user's voice.
+- Light and color that give a photograph a mood without overwhelming it.
+- Tools that save effort and leave you with something you can actually use.
+- Words that sound like the person sending them.
 
-**How I work:** build → inspect → verify → refine. I distinguish software checks from actual output quality, and keep claims within the evidence available.
+**My favorite part:** the small adjustments that make the whole thing feel right. I build, inspect, and refine—and keep software checks separate from judging the finished result.
 
 ## Let's talk
 
-I'm happy to discuss agent workflows, creative tools, and practical improvements. For a project question or bug, open an issue in that repository. For a general idea or conversation, [start an issue here](https://github.com/kwhi6693-web/kwhi6693-web/issues/new).
+A photo idea, a tool you wish existed, or a small annoyance worth fixing? [Say hello](https://github.com/kwhi6693-web/kwhi6693-web/issues/new). Half-formed ideas are welcome, too.
+
+For a project question or bug, please use that project's issues so the conversation stays with the work.
