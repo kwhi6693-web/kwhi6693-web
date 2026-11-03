@@ -7,7 +7,7 @@
 
 **对 AI 很好奇，对成品有点挑剔。**
 
-[English](README.md) · [简体中文](README.zh-CN.md)
+[English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
 
 <p>
 <a href="#-把好奇心做成工具"><img src="https://raw.githubusercontent.com/kwhi6693-web/kwhi6693-web/main/assets/badge-curious.png" height="24" alt="好奇心驱动"></a>
